@@ -14,6 +14,12 @@ vMix-Trial-Extender is an **educational demonstration** script that shows how a 
 
 The script demonstrates, based on hypothetical forensic analysis, how one might attempt to remove traces of a software trial. It is not intended for bypassing software licensing, but to illustrate the types of artifacts that trial software may use.
 
+# How Run
+
+1. First Run As Administrator
+2. Then run normally
+   (if pop up came give run anyway)
+
 ## What the Script Does
 
 1. **Terminates the vMix Process:**
